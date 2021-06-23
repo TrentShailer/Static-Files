@@ -26,7 +26,7 @@
 			"colour": "orange",
 			"tags": ["C++", "Vex"],
 			"url": "https://github.com/TrentShailer/VexV5-MainCode",
-			"description": "<div> This project is a collection of modules I made for the <a href='https://www.freyberg.ac.nz' target='_blank' rel='noreferrer'>Freyberg</a High School's> <a href='https://www.vexrobotics.com/v5' target='_blank' rel='noreferrer'>Vex</a> robotics team.<br/> This includes image displaying via a custom implementation of run length encoding compression, smooth motor control, smooth drivetrain control, auton selection, and pathfinding for autonomous all written in C++ with the Vex v5 API. </div>"
+			"description": "<div> This project is a collection of modules I made for the <a href='https://www.freyberg.ac.nz' target='_blank' rel='noreferrer'>Freyberg</a> High School's <a href='https://www.vexrobotics.com/v5' target='_blank' rel='noreferrer'>Vex</a> robotics team.<br/> This includes image displaying via a custom implementation of run length encoding compression, smooth motor control, smooth drivetrain control, auton selection, and pathfinding for autonomous all written in C++ with the Vex v5 API. </div>"
 		}
 	]
 }
