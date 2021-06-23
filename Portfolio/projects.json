@@ -4,6 +4,7 @@
 			"title": "Portfolio",
 			"colour": "red",
 			"tags": ["Frontend", "ReactJS", "NodeJS", "ExpressJS"],
+			"url": "https://github.com/TrentShailer/Portfolio",
 			"description": "<div>This is the current project that you're looking at, it implements ReactJS using many custom components, along with a basic NodeJS with ExpressJS web server to serve the webpage. This project dynamically loads in projects from JSON in one of my github repos to allow for easy addition of new projects whenever I need to without needing to update the code. <br /> Many of the components that I created for this can be reused in many other projects, acting as a mini personal UI library that I can customise exactly to my needs. </div>"
 		}
 	]
