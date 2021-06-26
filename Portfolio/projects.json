@@ -22,10 +22,10 @@
 			"description": "<div> This project is everything I programmed for my at home weather station, it is comprised of a python script running on the Pi, a frontend made with ReactJS and MaterialUI, and a backend using NodeJS and ExpressJS.  <br/>The weather station collects temperature, humidity, air pressure, UV-Index, wind speed, and rainfall which is all send to the server every 5 minutes which is then processed and displayed on the frontend along with stored for frontend graphing of all data collected. </div>"
 		},
 		{
-			"title": "Vex v5 Modules",
+			"title": "Vex Modules",
 			"colour": "orange",
 			"tags": ["C++", "Vex"],
-			"url": "https://github.com/TrentShailer/VexV5-MainCode",
+			"url": "https://github.com/TrentShailer/Vex-Modules",
 			"description": "<div> This project is a collection of modules I made for the <a href='https://www.freyberg.ac.nz' target='_blank' rel='noreferrer'>Freyberg</a> High School's <a href='https://www.vexrobotics.com/v5' target='_blank' rel='noreferrer'>Vex</a> robotics team.<br/> This includes image displaying via a custom implementation of run length encoding compression, smooth motor control, smooth drivetrain control, auton selection, and pathfinding for autonomous all written in C++ with the Vex v5 API. </div>"
 		}
 	]
