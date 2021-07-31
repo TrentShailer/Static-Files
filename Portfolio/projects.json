@@ -3,7 +3,7 @@
 		{
 			"title": "Portfolio",
 			"colour": "red",
-			"tags": ["Frontend", "ReactJS", "NodeJS", "ExpressJS"],
+			"tags": ["Frontend Web", "ReactJS", "NodeJS", "ExpressJS"],
 			"url": "https://trentshailer.com",
 			"git": "https://github.com/TrentShailer/Portfolio",
 			"description": "<div>This is the current project that you're looking at, it implements ReactJS using many custom components, along with a basic NodeJS with ExpressJS web server to serve the webpage. This project dynamically loads in projects from JSON in one of my github repos to allow for easy addition of new projects whenever I need to without needing to update the code. <br /> Many of the components that I created for this can be reused in many other projects, acting as a mini personal UI library that I can customise exactly to my needs. </div>"
@@ -11,7 +11,7 @@
 		{
 			"title": "Cloud Storage",
 			"colour": "blue",
-			"tags": ["Full-Stack", "ReactJS", "NodeJS", "PostgreSQL"],
+			"tags": ["Full-Stack Web", "ReactJS", "NodeJS", "PostgreSQL"],
 			"url": "https://cloud.trentshailer.com",
 			"git": "https://github.com/TrentShailer/Cloud-Storage",
 			"description": "<div>This project is a full-stack project that is similar to the likes of Dropbox or Google Drive.  It features a frontend made with React, React Suite, and react router, a backend built with NodeJS and ExpressJS, and a database running on PostgreSQL.  It features, file upload, download, sharing, a fully fledged ExpressJS backend to manage all web requests and database queries, using recursion to process all your files and folders, secure password encryption with Argon2id hashing, and SMTP server usage for confirmation emails. </div>"
@@ -20,7 +20,6 @@
 			"title": "Weather Station",
 			"colour": "green",
 			"tags": ["RaspberryPi", "ReactJS", "NodeJS", "Python"],
-			"url": "https://weather.trentshailer.com",
 			"git": "https://github.com/TrentShailer/Weather-Station",
 			"description": "<div> This project is everything I programmed for my at home weather station, it is comprised of a python script running on the Pi, a frontend made with ReactJS and MaterialUI, and a backend using NodeJS and ExpressJS.  <br/>The weather station collects temperature, humidity, air pressure, UV-Index, wind speed, and rainfall which is all send to the server every 5 minutes which is then processed and displayed on the frontend along with stored for frontend graphing of all data collected. </div>"
 		},
@@ -34,14 +33,14 @@
 		{
 			"title": "Notifier App",
 			"colour": "purple",
-			"tags": ["React Native", "Expo"],
+			"tags": ["React Native App", "Expo"],
 			"git": "https://github.com/TrentShailer/Notifier-App",
 			"description": "<div>Notifier is an app to receives notifications that you can send out programmatically by sending a POST request to the webserver.  This is a react native app built with expo.</div>"
 		},
 		{
 			"title": "Notifier Webserver",
 			"colour": "deepPurple",
-			"tags": ["NodeJS", "PostgreSQL", "ExpressJS" ],
+			"tags": ["Backend Web", "NodeJS", "PostgreSQL", "ExpressJS"],
 			"git": "https://github.com/TrentShailer/Notifier-Webserver",
 			"description": "<div>This is the webserver to allow notifier app to work, and works with a postgreSQL database running in a docker container.</div>"
 		}
