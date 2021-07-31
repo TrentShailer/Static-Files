@@ -14,6 +14,7 @@
 			"tags": ["Full-Stack Web", "ReactJS", "NodeJS", "PostgreSQL"],
 			"url": "https://cloud.trentshailer.com",
 			"git": "https://github.com/TrentShailer/Cloud-Storage",
+			"img": "https://github.com/TrentShailer/Static-Files/Portfolio/Images/Cloud/Images.md",
 			"description": "<div>This project is a full-stack project that is similar to the likes of Dropbox or Google Drive.  It features a frontend made with React, React Suite, and react router, a backend built with NodeJS and ExpressJS, and a database running on PostgreSQL.  It features, file upload, download, sharing, a fully fledged ExpressJS backend to manage all web requests and database queries, using recursion to process all your files and folders, secure password encryption with Argon2id hashing, and SMTP server usage for confirmation emails. </div>"
 		},
 		{
@@ -21,6 +22,7 @@
 			"colour": "green",
 			"tags": ["RaspberryPi", "ReactJS", "NodeJS", "Python"],
 			"git": "https://github.com/TrentShailer/Weather-Station",
+			"img": "https://github.com/TrentShailer/Static-Files/Portfolio/Images/Weather/Images.md",
 			"description": "<div> This project is everything I programmed for my at home weather station, it is comprised of a python script running on the Pi, a frontend made with ReactJS and MaterialUI, and a backend using NodeJS and ExpressJS.  <br/>The weather station collects temperature, humidity, air pressure, UV-Index, wind speed, and rainfall which is all send to the server every 5 minutes which is then processed and displayed on the frontend along with stored for frontend graphing of all data collected. </div>"
 		},
 		{
@@ -35,6 +37,7 @@
 			"colour": "purple",
 			"tags": ["React Native App", "Expo"],
 			"git": "https://github.com/TrentShailer/Notifier-App",
+			"img": "https://github.com/TrentShailer/Static-Files/Portfolio/Images/Notifier/Images.md",
 			"description": "<div>Notifier is an app to receives notifications that you can send out programmatically by sending a POST request to the webserver.  This is a react native app built with expo.</div>"
 		},
 		{
