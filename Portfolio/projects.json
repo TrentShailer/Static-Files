@@ -46,6 +46,14 @@
 			"tags": ["Backend Web", "NodeJS", "PostgreSQL", "ExpressJS"],
 			"git": "https://github.com/TrentShailer/Notifier-Webserver",
 			"description": "<div>This is the webserver to allow notifier app to work, and works with a postgreSQL database running in a docker container.</div>"
+		},
+		{
+			"title": "URL-Shortener",
+			"colour": "teal",
+			"tags": ["ReactJS", "GraphQL", "ExpressJS", "NodeJS"],
+			"url": "https://url.trentshailer.com",
+			"git": "https://github.com/TrentShailer/URL-Shortener",
+			"description": "<div>This is a project I wanted to create to be able to shorten long urls like when sharing a google drive file.  It's build with a reactJS front end using my own component library.  The backend is running expressJS and graphQL, this lets be query the backend through one endpoint for any data rather than using one endpoint per query.</div>"
 		}
 	]
 }
