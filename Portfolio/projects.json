@@ -54,6 +54,13 @@
 			"url": "https://url.trentshailer.com",
 			"git": "https://github.com/TrentShailer/URL-Shortener",
 			"description": "<div>A custom url shortener.<br><br>This web app allows for the shortening of urls by hiding the real url behind an alias, instead of sending out a long and complicated url they can just send out url.trentshailer.com/alias This alias is custom selected allowing for the purpose of the link to be obvious to and receivers.</div>"
+		},
+		{
+			"title": "Image Compressor",
+			"colour": "indigo",
+			"tags": ["C#", ".Net Core", "Console"],
+			"git": "https://github.com/TrentShailer/ImageCompressor",
+			"description": "<div>A command line application to compress images.<br><br>This is a command line application built with C# and .Net Core to compress images using a custom implementation of Run Length Encoding and Huffman Tree.  It is mainly used to produce compressed images for use with the Image Loader vex module.</div>"
 		}
 	]
 }
