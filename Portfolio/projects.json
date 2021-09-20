@@ -2,65 +2,71 @@
 	"projects": [
 		{
 			"title": "Portfolio",
-			"colour": "red",
-			"tags": ["Frontend Web", "ReactJS", "NodeJS", "ExpressJS"],
-			"url": "https://trentshailer.com",
-			"git": "https://github.com/TrentShailer/Portfolio",
-			"description": "<div>A website to display my projects and what I am capable of creating.<br><br>My portfolio is a frontend website built on top of ReactJS using custom components.  My portfolio dynamically generates the project panels by reading a custom json file hosted through one of my github repos, this allows for easy addition and modification of projects at any time without needing to rebuild the project.</div>"
+			"color": {
+				"name": "red",
+				"index": 6
+			},
+			"links": {
+				"git": "https://github.com/TrentShailer/Portfolio"
+			},
+			"art": "",
+			"subtitle": "",
+			"description": ""
 		},
 		{
 			"title": "Cloud Storage",
-			"colour": "blue",
-			"tags": ["Full-Stack Web", "ReactJS", "NodeJS", "PostgreSQL"],
-			"url": "https://cloud.trentshailer.com",
-			"git": "https://github.com/TrentShailer/Cloud-Storage",
-			"img": "https://github.com/TrentShailer/Static-Files/blob/master/Portfolio/Images/Cloud/Images.md",
-			"description": "<div>A personal cloud storage website similar to the likes of google drive or dropbox.<br><br>This project implements frontend, backend, and database skills with a ReactJS frontend supported by ReactSuite's component library, an expressJS webserver to handle incoming GET and POST requests, and a postgreSQL database to store data.  The server stores files locally on the disc then stores the path to the file in the database, the allows for easy storing and fetching of files without storing them in the database directly.</div>"
+			"color": {
+				"name": "bluegrey",
+				"index": 8
+			},
+			"links": {
+				"git": "https://github.com/TrentShailer/Cloud-Storage",
+				"visit": "https://cloud.trentshailer.com",
+				"view": "https://github.com/TrentShailer/Static-Files/blob/master/Portfolio/Images/Cloud/Images.md"
+			},
+			"art": "",
+			"subtitle": "",
+			"description": ""
 		},
 		{
-			"title": "Weather Station",
-			"colour": "green",
-			"tags": ["RaspberryPi", "ReactJS", "NodeJS", "Python"],
-			"git": "https://github.com/TrentShailer/Weather-Station",
-			"img": "https://github.com/TrentShailer/Static-Files/blob/master/Portfolio/Images/Weather/Images.md",
-			"description": "<div>A weather station to collect weather data from a raspberryPi and deliver that to a webpage.<br><br>This project incorporates electronics, frontend, and backend skills to collect, store, and serve weather data to the end user.  The raspberryPi utilises a BME280 chip for collecting temperature, humidity, and air pressure, a VEML6075 for collecting UV data, a custom 3D printed anemometer for wind speed, and a rain sensor for the ml of rain.  All this data is collected then stored on the backend ready for display on the frontend.</div>"
+			"title": "URL Shortener",
+			"color": {
+				"name": "",
+				"index": 0
+			},
+			"links": {
+				"git": "https://github.com/TrentShailer/URL-Shortener",
+				"visit": "https://url.trentshailer.com"
+			},
+			"art": "",
+			"subtitle": "",
+			"description": ""
 		},
 		{
 			"title": "Vex Modules",
-			"colour": "orange",
-			"tags": ["C++", "Vex"],
-			"git": "https://github.com/TrentShailer/Vex-Modules",
-			"description": "<div>A collection of modules I made for the <a href='https://www.freyberg.ac.nz' target='_blank' rel='noreferrer'>Freyberg</a> High School's <a href='https://www.vexrobotics.com/v5' target='_blank' rel='noreferrer'>Vex</a> robotics team.<br><br> This includes image displaying via a custom implementation of run length encoding compression, smooth motor control, smooth drivetrain control, auton selection, mechanum drivetrain, and pathfinding for autonomous all written in C++ with the Vex v5 API. </div>"
-		},
-		{
-			"title": "Notifier App",
-			"colour": "purple",
-			"tags": ["React Native App", "Expo"],
-			"git": "https://github.com/TrentShailer/Notifier-App",
-			"img": "https://github.com/TrentShailer/Static-Files/blob/master/Portfolio/Images/Notifier/Images.md",
-			"description": "<div>An app to serve notifications to an end user from any program.<br><br>This app serves as a tool to show notifications to a given end user, the app generates a userID and senderID for a user, the user can then send a web request from any program with the senderID and the userID to receive a notification on their phone.  This could be used to notify a user about the status of a program or server or to receive data from a program directly on their phone.</div>"
-		},
-		{
-			"title": "Notifier Webserver",
-			"colour": "deepPurple",
-			"tags": ["Backend Web", "NodeJS", "PostgreSQL", "ExpressJS"],
-			"git": "https://github.com/TrentShailer/Notifier-Webserver",
-			"description": "<div>The webserver behind the notifier app.<br><br>This receives an incoming web request with a sender and a user and delivers a notification through Expo's notification service to the user's phone.</div>"
-		},
-		{
-			"title": "URL-Shortener",
-			"colour": "teal",
-			"tags": ["ReactJS", "GraphQL", "ExpressJS", "NodeJS"],
-			"url": "https://url.trentshailer.com",
-			"git": "https://github.com/TrentShailer/URL-Shortener",
-			"description": "<div>A custom url shortener.<br><br>This web app allows for the shortening of urls by hiding the real url behind an alias, instead of sending out a long and complicated url they can just send out url.trentshailer.com/alias This alias is custom selected allowing for the purpose of the link to be obvious to and receivers.</div>"
+			"color": {
+				"name": "",
+				"index": 0
+			},
+			"links": {
+				"git": "https://github.com/TrentShailer/Vex-Modules"
+			},
+			"art": "",
+			"subtitle": "",
+			"description": ""
 		},
 		{
 			"title": "Image Compressor",
-			"colour": "indigo",
-			"tags": ["C#", ".Net Core", "Console"],
-			"git": "https://github.com/TrentShailer/ImageCompressor",
-			"description": "<div>A command line application to compress images.<br><br>This is a command line application built with C# and .Net Core to compress images using a custom implementation of Run Length Encoding and Huffman Tree.  It is mainly used to produce compressed images for use with the Image Loader vex module.</div>"
+			"color": {
+				"name": "",
+				"index": 0
+			},
+			"links": {
+				"git": "https://github.com/TrentShailer/Image-Compressor"
+			},
+			"art": "",
+			"subtitle": "",
+			"description": ""
 		}
 	]
 }
