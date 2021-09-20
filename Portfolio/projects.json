@@ -1,72 +1,48 @@
 {
 	"projects": [
 		{
-			"title": "Portfolio",
-			"color": {
-				"name": "red",
-				"index": 6
-			},
-			"links": {
-				"git": "https://github.com/TrentShailer/Portfolio"
-			},
-			"art": "",
-			"subtitle": "",
-			"description": ""
-		},
-		{
 			"title": "Cloud Storage",
-			"color": {
-				"name": "bluegrey",
-				"index": 8
-			},
+			"color": "#37474F",
 			"links": {
 				"git": "https://github.com/TrentShailer/Cloud-Storage",
 				"visit": "https://cloud.trentshailer.com",
 				"view": "https://github.com/TrentShailer/Static-Files/blob/master/Portfolio/Images/Cloud/Images.md"
 			},
 			"art": "",
-			"subtitle": "",
-			"description": ""
+			"subtitle": "Store files securely on a remote server featuring folders, file sharing, direct download links, and more.",
+			"description": "A custom cloud storage solution implementing frontend, backend and database skills.  With a ReactJS frontend supported by ReactSuite's component library styled for a desktop application feel.  A backend built on ExpressJS and PostgreSQL to optimize GET and POST requests and database queries for efficient storage of files.  The server stores files locally on it's disc and saves the path to the file in the database for efficient storing and fetching of files."
 		},
 		{
 			"title": "URL Shortener",
-			"color": {
-				"name": "",
-				"index": 0
-			},
+			"color": "#FF8A80",
 			"links": {
 				"git": "https://github.com/TrentShailer/URL-Shortener",
 				"visit": "https://url.trentshailer.com"
 			},
 			"art": "",
-			"subtitle": "",
-			"description": ""
+			"subtitle": "Shorten your URLs without restriction or ads getting in the way of what matters most.",
+			"description": "An easy URL shortener with unlimited custom aliases to get your where you need to go.  A ReactJS frontend and a backend built with ExpressJS and GraphQL to structure requests between the frontend and backend for reliable communication."
 		},
 		{
-			"title": "Vex Modules",
-			"color": {
-				"name": "",
-				"index": 0
+			"title": "Portfolio",
+			"color": "#CFD8DC",
+			"links": {
+				"git": "https://github.com/TrentShailer/Portfolio"
 			},
+			"art": "",
+			"subtitle": "A portfolio to showcase all of my works.",
+			"description": "Showcasing some of my creations in a clean and professional manner.  The website pulls projects from a remote file to allow of easy addition of projects without needing to rebuild the frontend."
+		},
+
+		{
+			"title": "Vex Modules",
+			"color": "#D32F2F",
 			"links": {
 				"git": "https://github.com/TrentShailer/Vex-Modules"
 			},
 			"art": "",
-			"subtitle": "",
-			"description": ""
-		},
-		{
-			"title": "Image Compressor",
-			"color": {
-				"name": "",
-				"index": 0
-			},
-			"links": {
-				"git": "https://github.com/TrentShailer/Image-Compressor"
-			},
-			"art": "",
-			"subtitle": "",
-			"description": ""
+			"subtitle": "Make using your robot better than ever with this collection of modules to improve controllability and usability.",
+			"description": "Smooth motor control and smooth drivetrain to control the acceleration of a motor reducing motor strain and improving controllability.  Auton Select to allow the driver to easily select what autonomous program to run.  Mechanum control for prebuilt programming of a mechanum wheel drivetrain.  Image loader to display an image on the v5 brain without needing an SD Card."
 		}
 	]
 }
