@@ -10,7 +10,7 @@
 			},
 			"art": "",
 			"subtitle": "Store files securely on a remote server featuring folders, file sharing, direct download links, and more.",
-			"description": "A custom cloud storage solution implementing frontend, backend and database skills.  With a ReactJS frontend supported by ReactSuite's component library styled for a desktop application feel.  A backend built on ExpressJS and PostgreSQL to optimize GET and POST requests and database queries for efficient storage of files.  The server stores files locally on it's disc and saves the path to the file in the database for efficient storing and fetching of files."
+			"description": "A custom cloud storage solution implementing frontend, backend and database skills.  With a ReactJS frontend supported by ReactSuite's component library styled for a desktop application feel.  A backend built on ExpressJS and PostgreSQL to optimize GET and POST requests and database queries for efficient storage of files."
 		},
 		{
 			"title": "URL Shortener",
@@ -42,7 +42,7 @@
 			},
 			"art": "",
 			"subtitle": "Make using your robot better than ever with this collection of modules to improve controllability and usability.",
-			"description": "Smooth motor control and smooth drivetrain to control the acceleration of a motor reducing motor strain and improving controllability.  Auton Select to allow the driver to easily select what autonomous program to run.  Mechanum control for prebuilt programming of a mechanum wheel drivetrain.  Image loader to display an image on the v5 brain without needing an SD Card."
+			"description": "Smooth motor control and smooth drivetrain to control the acceleration of a motor reducing motor strain and improving controllability.  Auton Select to allow the driver to easily select what autonomous program to run.  Image loader to display an image on the v5 brain without needing an SD Card."
 		}
 	]
 }
