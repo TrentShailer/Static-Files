@@ -41,7 +41,7 @@
 				"git": "https://github.com/TrentShailer/Vex-Modules"
 			},
 			"art": "",
-			"subtitle": "Make using your robot better than ever with this collection of modules to improve controllability and usability.",
+			"subtitle": "Make using your robot better than ever with this collection of modules to improve usability.",
 			"description": "Smooth motor control and smooth drivetrain to control to control the acceleration of motors reducing strain and improving controllability, Autonomous Select, Mechanum Control, and Image loader."
 		}
 	]
