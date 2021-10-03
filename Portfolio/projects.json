@@ -8,7 +8,10 @@
 				"visit": "https://cloud.trentshailer.com",
 				"view": "https://github.com/TrentShailer/Static-Files/blob/master/Portfolio/Images/Cloud/Images.md"
 			},
-			"art": { "primary": "", "secondary": "" },
+			"art": {
+				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Test.png",
+				"secondary": ""
+			},
 			"subtitle": "Store files securely on a remote server featuring file sharing, direct download links, and more.",
 			"description": "A custom cloud storage solution implementing frontend, backend and database skills.  With a ReactJS frontend supported by ReactSuite's component library and a backend built on ExpressJS and PostgreSQL."
 		},
