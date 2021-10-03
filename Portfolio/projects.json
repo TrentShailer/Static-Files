@@ -2,7 +2,7 @@
 	"projects": [
 		{
 			"title": "Cloud Storage",
-			"color": "#FFB74D",
+			"color": "#212121",
 			"links": {
 				"git": "https://github.com/TrentShailer/Cloud-Storage",
 				"visit": "https://cloud.trentshailer.com",
