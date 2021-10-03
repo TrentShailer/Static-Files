@@ -16,6 +16,19 @@
 			"description": "A custom cloud storage solution implementing frontend, backend and database skills.  With a ReactJS frontend supported by ReactSuite's component library and a backend built on ExpressJS and PostgreSQL."
 		},
 		{
+			"title": "Portfolio",
+			"color": "#CFD8DC",
+			"links": {
+				"git": "https://github.com/TrentShailer/Portfolio"
+			},
+			"art": {
+				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Portfolio-Primary.png",
+				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Portfolio-Secondary.png"
+			},
+			"subtitle": "A portfolio to showcase all of my works.",
+			"description": "Showcasing some of my creations in a clean and professional manner.  The website pulls projects from a remote file to allow of easy addition of projects without needing to rebuild the frontend."
+		},
+		{
 			"title": "URL Shortener",
 			"color": "#FF8A80",
 			"links": {
@@ -28,19 +41,6 @@
 			},
 			"subtitle": "Shorten your URLs without restriction or ads getting in the way of what matters most.",
 			"description": "An easy URL shortener with unlimited custom aliases to get your where you need to go.  A ReactJS frontend and a backend built with ExpressJS and GraphQL for reliable communication."
-		},
-		{
-			"title": "Portfolio",
-			"color": "#CFD8DC",
-			"links": {
-				"git": "https://github.com/TrentShailer/Portfolio"
-			},
-			"art": {
-				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Portfolio-Primary.png",
-				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Portfolio-Secondary.png"
-			},
-			"subtitle": "A portfolio to showcase all of my works.",
-			"description": "Showcasing some of my creations in a clean and professional manner.  The website pulls projects from a remote file to allow of easy addition of projects without needing to rebuild the frontend."
 		},
 
 		{
