@@ -11,8 +11,8 @@
 				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/URL-Primary.png",
 				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/URL-Secondary.png"
 			},
-			"subtitle": "Shorten your URLs without restriction or ads getting in the way of what matters most.",
-			"description": "An easy URL shortener with unlimited custom aliases to get your where you need to go.  A ReactJS frontend and a backend built with ExpressJS and GraphQL for reliable communication."
+			"subtitle": "Shorten your URLs without ads getting in the way of what matters most.",
+			"description": "An easy URL shortener with unlimited custom aliases to get your where you need to go.  A ReactJS frontend and a backend built with ExpressJS."
 		},
 		{
 			"title": "Portfolio",
