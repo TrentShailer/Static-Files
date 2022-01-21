@@ -42,6 +42,20 @@
 			"subtitle": "Store files securely on a remote server featuring file sharing, direct download links, and more.",
 			"description": "A custom cloud storage solution implementing frontend, backend and database skills.  With a ReactJS frontend supported by ReactSuite's component library and a backend built on ExpressJS and PostgreSQL."
 		},
+		{
+			"title": "New World Cooldown Manager",
+			"color": "#c5e1a5",
+			"links": {
+				"git": "https://github.com/TrentShailer/nw-cooldown-manager",
+				"visit": "https://www.overwolf.com/app/Trent_Shailer-New_World_Cooldown_Manager"
+			},
+			"art": {
+				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/nw-cooldown/Images/NW-Primary.png",
+				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/nw-cooldown/Images/NW-Secondary.png"
+			},
+			"subtitle": "Automatic cooldown tracking for Elite POIs.",
+			"description": "Utilising overwolf's GEP API my app pulls your location from the game and determines if you are inside an Elite POI and starts a timer until you can return.  Make organising runs easier and more efficient."
+		},
 
 		{
 			"title": "Vex Modules",
