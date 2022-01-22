@@ -44,7 +44,7 @@
 		},
 		{
 			"title": "New World Cooldown Manager",
-			"color": "##8bc34a",
+			"color": "#8bc34a",
 			"links": {
 				"git": "https://github.com/TrentShailer/nw-cooldown-manager",
 				"visit": "https://www.overwolf.com/app/Trent_Shailer-New_World_Cooldown_Manager"
