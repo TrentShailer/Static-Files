@@ -50,8 +50,8 @@
 				"visit": "https://www.overwolf.com/app/Trent_Shailer-New_World_Cooldown_Manager"
 			},
 			"art": {
-				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/nw-cooldown/Images/NW-Primary.png",
-				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/nw-cooldown/Images/NW-Secondary.png"
+				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/NW-Primary.png",
+				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/NW-Secondary.png"
 			},
 			"subtitle": "Automatic cooldown tracking for Elite POIs.",
 			"description": "Utilising overwolf's GEP API my app pulls your location from the game and determines if you are inside an Elite POI and starts a timer until you can return.  Make organising runs easier and more efficient."
