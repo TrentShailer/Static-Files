@@ -1,8 +1,8 @@
 {
 	"about": [
-		"I am a first year student at Victoria University of Wellington studying towards a Bachelor of Engineering Majoring in Software Engineering.\nIn my degree we learn a range of skills related to engineering, cybersecurity, and software development working with Java, C++ and more.",
-		"I love working with robotics be it in my own time on small projects or as a part of a Vex robotics team to compete in competitions.\nGoing through the process of designing, developing, and refining an outcome to completion is always rewarding.",
-		"I've been programming since I was 13, starting with game development through Unity and C# until I started learning web development at 16.\nSince then I have had extensive experience with ReactJS, NodeJS, and PSQL working on personal projects in my spare time."
+		"I am a first year student at Victoria University of Wellington studying towards a Bachelor of Engineering Majoring in Software Engineering.</br>In my degree we learn a range of skills related to engineering, cybersecurity, and software development working with Java, C++ and more.",
+		"I love working with robotics be it in my own time on small projects or as a part of a Vex robotics team to compete in competitions.</br>Going through the process of designing, developing, and refining an outcome to completion is always rewarding.",
+		"I've been programming since I was 13, starting with game development through Unity and C# until I started learning web development at 16.</br>Since then I have had extensive experience with ReactJS, NodeJS, and PSQL working on personal projects in my spare time."
 	],
 	"projects": [
 		{
