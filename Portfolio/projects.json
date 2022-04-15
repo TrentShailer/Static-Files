@@ -1,74 +1,56 @@
 {
+	"about": [
+		"I am a first year student at Victoria University of Wellington studying towards a Bachelor of Engineering Majoring in Software Engineering.\nIn my degree we learn a range of skills related to engineering, cybersecurity, and software development working with Java, C++ and more.",
+		"I love working with robotics be it in my own time on small projects or as a part of a Vex robotics team to compete in competitions.\nGoing through the process of designing, developing, and refining an outcome to completion is always rewarding.",
+		"I've been programming since I was 13, starting with game development through Unity and C# until I started learning web development at 16.\nSince then I have had extensive experience with ReactJS, NodeJS, and PSQL working on personal projects in my spare time."
+	],
 	"projects": [
 		{
 			"title": "URL Shortener",
-			"color": "#FF8A80",
-			"links": {
-				"git": "https://github.com/TrentShailer/URL-Shortener",
-				"visit": "https://url.trentshailer.com"
-			},
-			"art": {
-				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/URL-Primary.png",
-				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/URL-Secondary.png"
-			},
-			"subtitle": "Shorten your URLs without ads getting in the way of what matters most.",
-			"description": "An easy URL shortener with unlimited custom aliases to get your where you need to go.  A ReactJS frontend and a backend built with ExpressJS."
+			"tech": ["ReactJS", "ExpressJS", "NoSQL"],
+			"links": [
+				{ "label": "Github", "url": "https://github.com/TrentShailer/URL-Shortener" },
+				{ "label": "Visit", "url": "https://url.trentshailer.com" }
+			],
+			"images": [],
+			"description": "A custom URL shortener I built in my spare time, the frontend is powered by ReactJS and the backend by an ExpressJS web server running off NodeJS.  All the data storage is done using NoSQL so it's more or less just a JSON file which is sufficient given how little data it is handling."
 		},
 		{
 			"title": "Portfolio",
-			"color": "#CFD8DC",
-			"links": {
-				"git": "https://github.com/TrentShailer/Portfolio"
-			},
-			"art": {
-				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Portfolio-Primary.png",
-				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Portfolio-Secondary.png"
-			},
-			"subtitle": "A portfolio to showcase all of my works.",
-			"description": "Showcasing some of my creations in a clean and professional manner.  The website pulls projects from a remote file to allow of easy addition of projects without needing to rebuild the frontend."
+			"tech": ["ReactJS", "ExpressJS", "Typescript"],
+			"links": [{ "label": "Github", "url": "https://github.com/TrentShailer/Portfolio" }],
+			"images": [],
+			"description": "I needed a place to showcase some of the things i've made so I designed this site, like many of my projects the frontend is built with ReactJS and the backend with ExpressJS.  The site altogether is fairly simple, most of the work was with designing the frontend and creating the 3D text effect programmatically."
 		},
 		{
 			"title": "Cloud Storage",
-			"color": "#212121",
-			"links": {
-				"git": "https://github.com/TrentShailer/Cloud-Storage",
-				"visit": "https://cloud.trentshailer.com",
-				"view": "https://github.com/TrentShailer/Static-Files/blob/master/Portfolio/Images/Cloud/Images.md"
-			},
-			"art": {
-				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Cloud-Primary.png",
-				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Cloud-Secondary.png"
-			},
-			"subtitle": "Store files securely on a remote server featuring file sharing, direct download links, and more.",
-			"description": "A custom cloud storage solution implementing frontend, backend and database skills.  With a ReactJS frontend supported by ReactSuite's component library and a backend built on ExpressJS and PostgreSQL."
+			"tech": ["ReactJS", "ExpressJS", "PostgreSQL", "React Suite"],
+			"links": [
+				{ "label": "Github", "url": "https://github.com/TrentShailer/Cloud-Storage" },
+				{ "label": "Visit", "url": "https://cloud.trentshailer.com" }
+			],
+			"images": [],
+			"description": "This was a programming project I made for an assignment during High School and involved working with frontend, backend, and databases all at once.  The frontend was made using ReactJS with components from react suite and went through an iterative design process with feedback from classmates and teachers.  The backend is built from ExpressJS and PostgreSQL and was my first major experience working with databases."
+		},
+		{
+			"title": "Vex Modules",
+			"tech": ["Vex V5 API", "C++"],
+			"links": [{ "label": "Github", "url": "https://github.com/TrentShailer/Vex-Modules" }],
+			"images": [],
+			"description": "This is a collection of modules I made for my High School vex robotics club that I ran, it includes things like smooth motor control to smoothly accelerate and decelerate the motors to reduce strain and improve controllability, pathfinding to allow each team's developer to make programming autonomous easier by letting them give the robot position and orientation and a destination tile and the robot will navigate their while avoiding game objects in the way, and much more."
 		},
 		{
 			"title": "New World Cooldown Manager",
-			"color": "#8bc34a",
-			"links": {
-				"git": "https://github.com/TrentShailer/nw-cooldown-manager",
-				"visit": "https://www.overwolf.com/app/Trent_Shailer-New_World_Cooldown_Manager"
-			},
-			"art": {
-				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/NW-Primary.png",
-				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/NW-Secondary.png"
-			},
-			"subtitle": "Automatic cooldown tracking for Elite POIs.",
-			"description": "Utilising overwolf's GEP API my app pulls your location from the game and determines if you are inside an Elite POI and starts a timer until you can return.  Make organising runs easier and more efficient."
-		},
-
-		{
-			"title": "Vex Modules",
-			"color": "#1565C0",
-			"links": {
-				"git": "https://github.com/TrentShailer/Vex-Modules"
-			},
-			"art": {
-				"primary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Vex-Primary.png",
-				"secondary": "https://raw.githubusercontent.com/TrentShailer/Static-Files/master/Portfolio/Images/Vex-Secondary.png"
-			},
-			"subtitle": "Make using your robot better than ever with this collection of modules to improve usability.",
-			"description": "Smooth motor control and smooth drivetrain to control to control the acceleration of motors reducing strain and improving controllability, Autonomous Select, Mechanum Control, and Image loader."
+			"tech": ["ReactJS", "Overwolf", "Typescript"],
+			"links": [
+				{ "label": "Github", "url": "https://github.com/TrentShailer/nw-cooldown-manager" },
+				{
+					"label": "Store Page",
+					"url": "https://www.overwolf.com/app/Trent_Shailer-New_World_Cooldown_Manager"
+				}
+			],
+			"images": [],
+			"description": "This is an app I made for Overwolf which is an application that lets modders add an overlay to various games along with access to some game data supplied by the game developers, my app was to have an in-game window to view your cooldowns for various areas in the game, it uses the player's position and does some math to work out if the player is inside a tracked location by using the ray casting algorithm solution to the point in polygon problem, then resets their cooldown."
 		}
 	]
 }
